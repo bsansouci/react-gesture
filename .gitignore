@@ -1,0 +1,14 @@
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+coverage
+node_modules
+lib
+
+.DS_Store
+all.js.map
+**/all.js
